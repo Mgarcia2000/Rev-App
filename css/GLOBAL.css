@@ -1,0 +1,40 @@
+*{
+    margin:0rem;
+    padding: 0rem;
+    box-sizing: border-box;   
+    
+    }
+
+html{
+    font-family: monospace;
+    font-size: 10px;
+}
+:root{
+    /*  Paleta de Colores  */
+    --Blue: #2855AE;
+    --Blue2: #7292DF;
+    --White: #FFFFFF;
+    --Skyblue: #F5F6FC;
+    --Great: #CACACA;
+    --gradient:inear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%)
+    
+
+
+    /*Variables de tamaño*/
+    --h1: 37.5rem;
+    --h2: 51.3rem;
+    --h3: 37.5rem; 
+    --parrafo: 81.3rem; 
+    
+
+}
+.item{
+    width: 25.5rem;
+    height: 51.3rem;
+    background:#2855AE;
+    background:#7292DF;
+    background: inear-gradient(313.78deg, #2855AE -3.15%, #7292CF 100%);  
+    margin: 6.5rem;
+    
+    
+}
